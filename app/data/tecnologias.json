@@ -1,0 +1,33 @@
+
+[
+  {
+    "title": "JavaScript",
+    "image": "javascript.svg",
+    "description": "Linguagem de programação utilizada no desenvolvimento web, tanto no frontend como no backend através do Node.js.",
+    "rating": 5
+  },
+  {
+    "title": "Node.js",
+    "image": "nodedotjs.svg",
+    "description": "Ambiente de execução que permite executar JavaScript fora do navegador.",
+    "rating": 5
+  },
+  {
+    "title": "React",
+    "image": "react.svg",
+    "description": "Biblioteca JavaScript utilizada para construir interfaces de utilizador através de componentes.",
+    "rating": 4
+  },
+  {
+    "title": "TypeScript",
+    "image": "typescript.svg",
+    "description": "Linguagem baseada em JavaScript que adiciona tipagem estática ao código.",
+    "rating": 4
+  },
+  {
+    "title": "HTML",
+    "image": "html5.svg",
+    "description": "Linguagem de marcação utilizada para estruturar o conteúdo das páginas web.",
+    "rating": 3
+  }
+]

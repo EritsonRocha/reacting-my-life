@@ -18,7 +18,6 @@ export const metadata: Metadata = {
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
-  const data = new Date()
 
   return (
     <html lang="en">
@@ -32,7 +31,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           {children}
         </main>
         
-        <footer>DIW {data.getFullYear()}</footer>
+        <footer>DIW 2026</footer>
 
       </body>
     </html>
