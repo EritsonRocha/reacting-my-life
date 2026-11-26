@@ -9,7 +9,7 @@ export default function page () {
         <h1>React & Next.js</h1>
         <nav className= "flex gap-4">
           <Link href="/">Intro</Link>
-          <Link href="/sobre">Sobre comer</Link>
+          <Link href="/sobre">Sobre</Link>
           <Link href="/caracteristicas">Características</Link>
           <Link href="/tecnologias">Tecnologias</Link>
         </nav>
